@@ -68,7 +68,8 @@ python main.py
 
 ## 📸 Screenshots
 
-(Add your screenshots in screenshots folder)
+<img width="955" height="504" alt="image" src="https://github.com/user-attachments/assets/2b6b9d5e-bd5d-4203-b6a2-359c4a422b03" />
+<img width="953" height="502" alt="image" src="https://github.com/user-attachments/assets/759e86e2-d639-4f02-8864-6b9406b82a68" />
 
 ---
 
